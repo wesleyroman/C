@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655921591 source:c:\users\wesle\documents\#04 - wesley\c\depuracao2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

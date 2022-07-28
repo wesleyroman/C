@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655926087 source:c:\users\wesle\documents\#04 - wesley\c\calculadora2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
